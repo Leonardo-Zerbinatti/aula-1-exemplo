@@ -6,6 +6,6 @@ Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no
  
 ## :books: O que você encontrará aqui?
  
-- \U0001F4DD Projetos simples e tutoriais
-- \U0001F4A1 Anotações e dicas
-- \U0001F6E0️ Experimentos com código
+- 📝 Projetos simples e tutoriais
+- 💡 Anotações e dicas
+- 🛠️ Experimentos com código
