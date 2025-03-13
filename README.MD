@@ -1,4 +1,4 @@
-# \U0001F680 Meu Primeiro Repositório
+# :rocket: Meu Primeiro Repositório
  
 Olá, mundo! \U0001F44B
  
