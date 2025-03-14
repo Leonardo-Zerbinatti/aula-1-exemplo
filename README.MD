@@ -1,8 +1,9 @@
-<<<<<<< .merge_file_CrLCYv
+# :rocket: Meu Primeiro Repositório
+
+**Teste de Conflito**
 # XXXXXXXXXXXXXXXXXXXXXX
-=======
 # YYYYYYYYYYYYYYYYYYYYYYYYYYYY
->>>>>>> .merge_file_NXOVk6
+**Teste de Conflito**
  
 Olá, mundo! :wave:
  
