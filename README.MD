@@ -1,4 +1,8 @@
+<<<<<<< .merge_file_CrLCYv
 # XXXXXXXXXXXXXXXXXXXXXX
+=======
+# YYYYYYYYYYYYYYYYYYYYYYYYYYYY
+>>>>>>> .merge_file_NXOVk6
  
 Olá, mundo! :wave:
  
